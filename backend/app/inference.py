@@ -11,7 +11,7 @@ from .schemas import PredictionItem, PredictionResponse
 
 # Public Hugging Face model repository
 HF_MODEL_BASE_URL = (
-    "https://huggingface.co/Swagatpawar/plantguard-ai-model/"
+    "https://huggingface.co/Kalavati/plantguard-ai-model/"
     "resolve/main"
 )
 
